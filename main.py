@@ -1,7 +1,14 @@
 """
 Tic-Tac-Toe with Vanilla Monte Carlo Tree Search Algorithm (MCTS).
-
 This module lets you play Tic-Tac-Toe against AI.
+
+Author
+------
+M.I.Khan
+
+Date
+----
+13th March 2025
 """
 ITERATIONS = 1000
 EXPLORATION_CONSTANT = 1.41
