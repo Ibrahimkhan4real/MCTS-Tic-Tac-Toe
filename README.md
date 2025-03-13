@@ -16,9 +16,6 @@ This repository contains an implementation of the classic Tic-Tac-Toe game that 
   - [MCTS Class](#mcts-class)
   - [play_game Function](#play_game-function)
 - [Usage](#usage)
-- [Requirements](#requirements)
-- [Potential Improvements](#potential-improvements)
-- [License](#license)
 
 ---
 
@@ -127,3 +124,10 @@ The MCTS implementation in this project is parameterized by:
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe-mcts.git
    cd tic-tac-toe-mcts
+
+2. **Install Requirements:**
+   ```bash
+   pip install numpy
+4. **Run the Game:**
+   ```bash
+   python main.py
