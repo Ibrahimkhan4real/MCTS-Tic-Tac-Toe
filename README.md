@@ -131,10 +131,19 @@ The MCTS implementation in this project is parameterized by:
 2. **Install Requirements:**
    ```bash
    pip install numpy
-4. **Run the Game:**
+3. **Run the Game:**
    ```bash
    python main.py
 
   ### Unit Test
 
+1. **Navigate to the Repository**
+   ```bash
+   cd tic-tac-toe-mcts
+2. **Run the Unit Test**
+   ```bash
+   python -m unittest -v test_main
+  Or
+  ```bash
+  python test_main.py
   
