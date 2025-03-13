@@ -142,7 +142,7 @@ The MCTS implementation in this project is parameterized by:
    cd tic-tac-toe-mcts
 2. **Run the Unit Test**
    ```bash
-   python -m unittest -v test_main
+       python -m unittest -v test_main
   Or
-  ```bash
+   ```bash
     python test_main.py
