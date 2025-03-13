@@ -16,6 +16,8 @@ This repository contains an implementation of the classic Tic-Tac-Toe game that 
   - [MCTS Class](#mcts-class)
   - [play_game Function](#play_game-function)
 - [Usage](#usage)
+  - [Main Code](#main-code)
+  - [Unit Test](#unit-test)
 
 ---
 
@@ -119,6 +121,7 @@ The MCTS implementation in this project is parameterized by:
 ---
 
 ## Usage
+  ### Main Code
 
 1. **Clone the Repository:**
    ```bash
@@ -131,3 +134,7 @@ The MCTS implementation in this project is parameterized by:
 4. **Run the Game:**
    ```bash
    python main.py
+
+  ### Unit Test
+
+  
