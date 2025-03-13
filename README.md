@@ -145,5 +145,4 @@ The MCTS implementation in this project is parameterized by:
    python -m unittest -v test_main
   Or
   ```bash
-  python test_main.py
-  
+    python test_main.py
