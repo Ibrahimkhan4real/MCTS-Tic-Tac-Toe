@@ -125,7 +125,7 @@ The MCTS implementation in this project is parameterized by:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-mcts.git
+   https://github.com/Ibrahimkhan4real/MCTS-Tic-Tac-Toe.git
    cd tic-tac-toe-mcts
 
 2. **Install Requirements:**
